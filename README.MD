@@ -1,1 +1,1 @@
-This is a set of Powershell scripts that send data over TCP (JSON) to a logstash server. For a more in depth look, visit www.charleslabri.com. Special thanks to http://outsideit.net/ for the Powershell TCP connection function.
+This is a set of Powershell scripts that send data over TCP (JSON) to a logstash server. For a more in depth look, visit http://www.charleslabri.com/elasticsearch-kibana-logstash-and-windows-metrics-over-powershell-tcp-connections/. Special thanks to http://outsideit.net/ for the Powershell TCP connection function.
